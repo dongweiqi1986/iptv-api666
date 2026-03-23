@@ -3,6 +3,7 @@
 
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel.m3u
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/hotel2.m3u
+https://raw.githubusercontent.com/dongweiqi1/IPTV/refs/heads/main/live.m3u
 https://raw.githubusercontent.com/dongweiqi1/x41/refs/heads/main/zubo.m3u
 https://raw.githubusercontent.com/woshishiq1/hipy-drpy/702477244352d3e117059c5eddf40d5cbb574e54/FGBLH/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86
 https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.m3u
