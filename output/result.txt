@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-16 19:07:45,http://74.91.26.218:82/live/cctv1hd.m3u8
+2026-06-17 04:48:41,http://74.91.26.218:82/live/cctv1hd.m3u8
 
 ☘️央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -25,10 +25,10 @@ CCTV-4,http://114.241.108.91:85/tsfile/live/4/1004_1.m3u8?key=txiptv
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV-5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5,http://60.26.14.96:85/tsfile/live/49/1011.m3u8?key=txiptv
 CCTV-5,http://114.241.108.91:85/tsfile/live/5/1005_1.m3u8?key=txiptv
-CCTV-5,http://82.156.243.185:36888/av3a/cctv5n.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
@@ -104,10 +104,10 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 广东卫视,http://gfr.x3322.net:9901/tsfile/live/1096_1.m3u8
 浙江卫视,https://iptv.catvod.com/catvod.php?id=zjws
-浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://60.26.14.96:85/tsfile/live/113/1027.m3u8?key=txiptv
 浙江卫视,http://114.241.108.91:85/tsfile/live/27/1027_1.m3u8?key=txiptv
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
@@ -224,9 +224,9 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 四川卫视,http://114.241.108.91:85/tsfile/live/36/1036_1.m3u8?key=txiptv
 四川卫视,http://38.75.136.137:98/gslb/dsdqpub/scwshd.m3u8?auth=testpub
 深圳卫视,https://iptv.catvod.com/catvod.php?id=szws
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://60.26.14.96:85/tsfile/live/141/1034.m3u8?key=txiptv
 深圳卫视,http://114.241.108.91:85/tsfile/live/39/1039_1.m3u8?key=txiptv
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 深圳卫视,http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 深圳卫视,http://153.0.171.163:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://gfr.x3322.net:9901/tsfile/live/1095_1.m3u8
@@ -266,8 +266,8 @@ CNN,https://jmp2.uk/stvp-ATBD800001VA
 CNN,https://jmp2.uk/stvp-CHBD800001D0
 CNN,https://jmp2.uk/stvp-DEBD800001S4
 CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 BBC News,https://jmp2.uk/stvp-US4000033L
 ABC News Live,https://jmp2.uk/stvp-USBC39000171G
 FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
