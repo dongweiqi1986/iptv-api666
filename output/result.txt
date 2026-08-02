@@ -1,74 +1,74 @@
 🕘️更新时间,#genre#
-2026-08-02 03:05:43,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-08-02 16:20:56,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️央视频道,#genre#
 CCTV-1,http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV-1,http://153.0.171.163:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1,http://112.46.105.20:8009/hls/501/index.m3u8
 CCTV-2,http://61.178.227.57:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-2,http://153.0.171.163:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV-2,http://112.46.105.20:8009/hls/502/index.m3u8
 CCTV-3,http://61.178.227.57:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
+CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-3,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
 CCTV-3,http://153.0.171.163:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-3,http://112.46.105.20:8009/hls/3/index.m3u8
 CCTV-4,http://61.178.227.57:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
+CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-4,http://153.0.171.163:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://112.46.105.20:8009/hls/4/index.m3u8
 CCTV-5,http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 CCTV-5,http://153.0.171.163:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://112.46.105.20:8009/hls/503/index.m3u8
 CCTV-5+,http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 CCTV-16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6,http://61.178.227.57:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8
+CCTV-6,http://74.91.26.218:82/live/cctv6hd.m3u8
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
 CCTV-6,http://153.0.171.163:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV-6,http://112.46.105.20:8009/hls/6/index.m3u8
 CCTV-7,http://61.178.227.57:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
+CCTV-7,http://74.91.26.218:82/live/cctv7hd.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
 CCTV-7,http://153.0.171.163:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://112.46.105.20:8009/hls/504/index.m3u8
 CCTV-8,http://61.178.227.57:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
 CCTV-8,http://153.0.171.163:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV-8,http://112.46.105.20:8009/hls/8/index.m3u8
 CCTV-9,http://61.178.227.57:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
+CCTV-9,http://74.91.26.218:82/live/cctv9hd.m3u8
 CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
 CCTV-9,http://153.0.171.163:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV-9,http://112.46.105.20:8009/hls/509/index.m3u8
 CCTV-10,http://61.178.227.57:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
+CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-10,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
 CCTV-10,http://153.0.171.163:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV-10,http://112.46.105.20:8009/hls/506/index.m3u8
 CCTV-11,http://61.178.227.57:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
 CCTV-11,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 CCTV-11,http://153.0.171.163:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12,http://61.178.227.57:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-12,http://153.0.171.163:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV-13,http://61.178.227.57:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
 CCTV-13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://61.178.227.57:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-15,http://61.178.227.57:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://74.91.26.218:82/live/cctv15hd.m3u8
 CCTV-15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV-15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -84,8 +84,8 @@ CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 浙江卫视,http://153.0.171.163:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://gfr.x3322.net:9901/tsfile/live/1087_1.m3u8
-湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://61.178.227.57:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
 湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 湖南卫视,http://gfr.x3322.net:9901/tsfile/live/1084_1.m3u8
 北京卫视,http://61.178.227.57:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -178,113 +178,11 @@ FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-1
 ☘️台湾频道,#genre#
 美亚电影台HD,http://173.208.234.146/live/mymovie.m3u8
 美亚电影台(国),http://173.208.234.146/live/mymovie.m3u8
-东森电影HD,http://rihou.cc:555/tv/东森电影
 
 ☘️国际频道,#genre#
-CNN,https://jmp2.uk/stvp-ATBD800001VA
-CNN,https://jmp2.uk/stvp-CHBD800001D0
-CNN,https://jmp2.uk/stvp-DEBD800001S4
-CNN,https://jmp2.uk/stvp-GBBD8000016N
-CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-BBC News,https://jmp2.uk/stvp-US4000033L
-ABC News Live,https://jmp2.uk/stvp-USBC39000171G
-FRANCE 24 FAST,https://jmp2.uk/stvp-ATBD1100002TA
-FRANCE 24 FAST,https://jmp2.uk/stvp-CHBD1100003CW
-FRANCE 24 FAST,https://jmp2.uk/stvp-DEBD1100002II
-FRANCE 24 FAST,https://jmp2.uk/stvp-ESBD1100001PQ
-FRANCE 24 FAST,https://jmp2.uk/stvp-GBBD1100002L5
-FRANCE 24 FAST,https://jmp2.uk/stvp-ITBD1100002WX
-Bloomberg TV+,https://jmp2.uk/stvp-ATBA3300018K1
-Bloomberg TV+,https://jmp2.uk/stvp-CHBA3300018TD
-Bloomberg TV+,https://jmp2.uk/stvp-DEBA3300027ZJ
-Bloomberg TV+,https://jmp2.uk/stvp-ESBA3300024AJ
-Bloomberg TV+,https://jmp2.uk/stvp-FR1400004VF
-Bloomberg TV+,https://jmp2.uk/stvp-GBBA3300033C2
-Bloomberg TV+,https://jmp2.uk/stvp-ITBA3300025F5
-Bloomberg TV+,https://jmp2.uk/stvp-USAJ3400011A8
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 Sky News,https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
-Sky News,https://jmp2.uk/stvp-GB3300002NF
-Sky News,https://jmp2.uk/stvp-USBB52000022Q
 CBC News,https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
-CBC News,https://jmp2.uk/stvp-CABC2300009KD
-CBC News,https://jmp2.uk/stvp-USBC4400003OU
 NBC News NOW,https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_5.m3u8
-NBC News NOW,https://jmp2.uk/stvp-CAAJ2700011IF
-NBC News NOW,https://jmp2.uk/stvp-ESBC400003YM
-NBC News NOW,https://jmp2.uk/stvp-GBBB1500004LG
-NBC News NOW,https://jmp2.uk/stvp-ITBC4000028E
-NBC News NOW,https://jmp2.uk/stvp-USBB2200014DK
-DW,https://jmp2.uk/stvp-ES1300001QC
-DW,https://jmp2.uk/stvp-GB1300001RX
-Al Jazeera,https://jmp2.uk/stvp-ES2300004XW
-Al Jazeera,https://jmp2.uk/stvp-FR23000013B
-Al Jazeera,https://jmp2.uk/stvp-GB2300005ML
-Al Jazeera,https://jmp2.uk/stvp-IT23000034W
-LiveNOW from FOX,https://jmp2.uk/stvp-USBA300024TN
-BBC Series,https://jmp2.uk/stvp-AT2100004P1
-BBC Series,https://jmp2.uk/stvp-CH2100003MU
-BBC Series,https://jmp2.uk/stvp-DE21000031Z
-BBC Series,https://jmp2.uk/stvp-ES2900001DQ
-BBC Series,https://jmp2.uk/stvp-FR2900001UF
-BBC Series,https://jmp2.uk/stvp-IT2900001B5
-BBC Earth,https://jmp2.uk/stvp-DE3200001RI
-BBC Earth,https://jmp2.uk/stvp-ES3200001F1
-BBC Earth,https://jmp2.uk/stvp-FR3200001NQ
-BBC Earth,https://jmp2.uk/stvp-IT3200002L5
-BBC Travel,https://jmp2.uk/stvp-DE2900001W0
-Discovery,https://jmp2.uk/stvp-IT31000026G
-WWE Superstar Central,https://jmp2.uk/stvp-US700005ID
 Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-Red Bull TV,https://jmp2.uk/stvp-ATBD1500003ES
-Red Bull TV,https://jmp2.uk/stvp-CH4700001E1
-Red Bull TV,https://jmp2.uk/stvp-DEBC2300001EU
-Red Bull TV,https://jmp2.uk/stvp-ES3800001V1
-Red Bull TV,https://jmp2.uk/stvp-GBBD2300003IK
-Red Bull TV,https://jmp2.uk/stvp-IT38000070T
-American Idol,https://jmp2.uk/stvp-GBBC2300001X5
-MTV Teen Mom,https://jmp2.uk/stvp-ATAJ7000105F
-MTV Teen Mom,https://jmp2.uk/stvp-CHAJ700010NR
-MTV Teen Mom,https://jmp2.uk/stvp-DEAJ7000105I
-MTV Pluto TV,https://jmp2.uk/stvp-ATAJ700002OG
-MTV Pluto TV,https://jmp2.uk/stvp-CHAJ700002UB
-MTV Pluto TV,https://jmp2.uk/stvp-DEAJ7000033P
-MTV Pluto TV,https://jmp2.uk/stvp-USBA3000093U
-MTV Catfish,https://jmp2.uk/stvp-ATAK3504517A
-MTV Catfish,https://jmp2.uk/stvp-CHAK3504517A
-MTV Catfish,https://jmp2.uk/stvp-DEAK3504502A
-MTV Catfish,https://jmp2.uk/stvp-ESAJ3800003LX
-MTV Catfish,https://jmp2.uk/stvp-FRAJ38000050Z
-MTV Cribs,https://jmp2.uk/stvp-ESAJ3800006TT
-AMC Stories,https://jmp2.uk/stvp-AT3000006M1
-AMC Stories,https://jmp2.uk/stvp-DE3000009SE
-Stories by AMC,https://jmp2.uk/stvp-USBD2500018X6
-Vevo Pop,https://jmp2.uk/stvp-CABC52000180Z
-Vevo Pop,https://jmp2.uk/stvp-DEBC2100001ZJ
-Vevo Pop,https://jmp2.uk/stvp-ESBC2100001IU
-Vevo Pop,https://jmp2.uk/stvp-FRBC2100001YY
-Vevo Pop,https://jmp2.uk/stvp-GBBC19000017V
-Vevo Pop,https://jmp2.uk/stvp-ITBC2100001G9
-Vevo Pop,https://jmp2.uk/stvp-USBC3600008WY
-Vevo Latino,https://jmp2.uk/stvp-ESBC2100002LV
-Vevo Latino,https://jmp2.uk/stvp-USBC3600015GF
-Vevo Hip-Hop,https://jmp2.uk/stvp-USBC3600002EK
-K-POP by CJ ENM,https://jmp2.uk/stvp-CA3900002PM
-K-POP by CJ ENM,https://jmp2.uk/stvp-DE3900002R1
-K-POP by CJ ENM,https://jmp2.uk/stvp-ES3900001QG
-K-POP by CJ ENM,https://jmp2.uk/stvp-FR3900001AC
-K-POP by CJ ENM,https://jmp2.uk/stvp-GB3900001TM
-K-POP by CJ ENM,https://jmp2.uk/stvp-IN3800006RD
-K-POP by CJ ENM,https://jmp2.uk/stvp-IT39000028R
-K-POP by CJ ENM,https://jmp2.uk/stvp-US39000038W
-NEW KPOP,https://jmp2.uk/stvp-CA1800004L7
-NEW KPOP,https://jmp2.uk/stvp-DE17000032I
-NEW KPOP,https://jmp2.uk/stvp-ES1700005ME
-NEW KPOP,https://jmp2.uk/stvp-FR1700002OZ
-NEW KPOP,https://jmp2.uk/stvp-GB17000088V
-NEW KPOP,https://jmp2.uk/stvp-IT1700002R5
-NEW KPOP,https://jmp2.uk/stvp-USAJ3000013FJ
-Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
-MovieSphere by Lionsgate,https://jmp2.uk/stvp-DE4000002I3
-MovieSphere by Lionsgate,https://jmp2.uk/stvp-GBBA33000557H
-Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
