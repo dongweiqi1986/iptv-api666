@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-02 16:20:56
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-08-03 03:06:13
 http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -333,19 +333,219 @@ http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="FashionTV Paris L'Original (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FashionTV Paris L'Original (1080p).png" group-title="☘️香港频道",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-name="美亚电影台HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台HD.png" group-title="☘️台湾频道",美亚电影台HD
-http://173.208.234.146/live/mymovie.m3u8
-#EXTINF:-1 tvg-name="美亚电影台(国)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台(国).png" group-title="☘️台湾频道",美亚电影台(国)
-http://173.208.234.146/live/mymovie.m3u8
+#EXTINF:-1 tvg-name="东森电影HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影HD.png" group-title="☘️台湾频道",东森电影HD
+http://rihou.cc:555/tv/东森电影
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-ATBD800001VA
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-CHBD800001D0
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-DEBD800001S4
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
+https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="☘️国际频道",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNA" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA.png" group-title="☘️国际频道",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC News.png" group-title="☘️国际频道",BBC News
+https://jmp2.uk/stvp-US4000033L
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/ABC News Live.png" group-title="☘️国际频道",ABC News Live
+https://jmp2.uk/stvp-USBC39000171G
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-ATBD1100002TA
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-CHBD1100003CW
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-DEBD1100002II
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-ESBD1100001PQ
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-GBBD1100002L5
+#EXTINF:-1 tvg-name="FRANCE 24 FAST" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FRANCE 24 FAST.png" group-title="☘️国际频道",FRANCE 24 FAST
+https://jmp2.uk/stvp-ITBD1100002WX
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-ATBA3300018K1
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-CHBA3300018TD
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-DEBA3300027ZJ
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-ESBA3300024AJ
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-FR1400004VF
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-GBBA3300033C2
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-ITBA3300025F5
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Bloomberg TV+.png" group-title="☘️国际频道",Bloomberg TV+
+https://jmp2.uk/stvp-USAJ3400011A8
 #EXTINF:-1 tvg-name="Sky News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky News.png" group-title="☘️国际频道",Sky News
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky News.png" group-title="☘️国际频道",Sky News
+https://jmp2.uk/stvp-GB3300002NF
+#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Sky News.png" group-title="☘️国际频道",Sky News
+https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 tvg-name="CBC News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CBC News.png" group-title="☘️国际频道",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CBC News.png" group-title="☘️国际频道",CBC News
+https://jmp2.uk/stvp-CABC2300009KD
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CBC News.png" group-title="☘️国际频道",CBC News
+https://jmp2.uk/stvp-USBC4400003OU
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
 https://plex-xumoent-nbcnn-x17gi.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-CAAJ2700011IF
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-ESBC400003YM
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-GBBB1500004LG
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-ITBC4000028E
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NBC News NOW.png" group-title="☘️国际频道",NBC News NOW
+https://jmp2.uk/stvp-USBB2200014DK
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="☘️国际频道",DW
+https://jmp2.uk/stvp-ES1300001QC
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/DW.png" group-title="☘️国际频道",DW
+https://jmp2.uk/stvp-GB1300001RX
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
+https://jmp2.uk/stvp-ES2300004XW
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
+https://jmp2.uk/stvp-FR23000013B
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
+https://jmp2.uk/stvp-GB2300005ML
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Al Jazeera.png" group-title="☘️国际频道",Al Jazeera
+https://jmp2.uk/stvp-IT23000034W
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/LiveNOW from FOX.png" group-title="☘️国际频道",LiveNOW from FOX
+https://jmp2.uk/stvp-USBA300024TN
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-AT2100004P1
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-CH2100003MU
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-DE21000031Z
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-ES2900001DQ
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-FR2900001UF
+#EXTINF:-1 tvg-name="BBC Series" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Series.png" group-title="☘️国际频道",BBC Series
+https://jmp2.uk/stvp-IT2900001B5
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+https://jmp2.uk/stvp-DE3200001RI
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+https://jmp2.uk/stvp-ES3200001F1
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+https://jmp2.uk/stvp-FR3200001NQ
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Earth.png" group-title="☘️国际频道",BBC Earth
+https://jmp2.uk/stvp-IT3200002L5
+#EXTINF:-1 tvg-name="BBC Travel" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC Travel.png" group-title="☘️国际频道",BBC Travel
+https://jmp2.uk/stvp-DE2900001W0
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Discovery.png" group-title="☘️国际频道",Discovery
+https://jmp2.uk/stvp-IT31000026G
+#EXTINF:-1 tvg-name="WWE Superstar Central" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/WWE Superstar Central.png" group-title="☘️国际频道",WWE Superstar Central
+https://jmp2.uk/stvp-US700005ID
 #EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-ATBD1500003ES
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-CH4700001E1
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-DEBC2300001EU
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-ES3800001V1
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-GBBD2300003IK
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV.png" group-title="☘️国际频道",Red Bull TV
+https://jmp2.uk/stvp-IT38000070T
+#EXTINF:-1 tvg-name="American Idol" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/American Idol.png" group-title="☘️国际频道",American Idol
+https://jmp2.uk/stvp-GBBC2300001X5
+#EXTINF:-1 tvg-name="MTV Teen Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+https://jmp2.uk/stvp-ATAJ7000105F
+#EXTINF:-1 tvg-name="MTV Teen Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+https://jmp2.uk/stvp-CHAJ700010NR
+#EXTINF:-1 tvg-name="MTV Teen Mom" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Teen Mom.png" group-title="☘️国际频道",MTV Teen Mom
+https://jmp2.uk/stvp-DEAJ7000105I
+#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+https://jmp2.uk/stvp-ATAJ700002OG
+#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+https://jmp2.uk/stvp-CHAJ700002UB
+#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+https://jmp2.uk/stvp-DEAJ7000033P
+#EXTINF:-1 tvg-name="MTV Pluto TV" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Pluto TV.png" group-title="☘️国际频道",MTV Pluto TV
+https://jmp2.uk/stvp-USBA3000093U
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+https://jmp2.uk/stvp-ATAK3504517A
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+https://jmp2.uk/stvp-CHAK3504517A
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+https://jmp2.uk/stvp-DEAK3504502A
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+https://jmp2.uk/stvp-ESAJ3800003LX
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Catfish.png" group-title="☘️国际频道",MTV Catfish
+https://jmp2.uk/stvp-FRAJ38000050Z
+#EXTINF:-1 tvg-name="MTV Cribs" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MTV Cribs.png" group-title="☘️国际频道",MTV Cribs
+https://jmp2.uk/stvp-ESAJ3800006TT
+#EXTINF:-1 tvg-name="AMC Stories" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC Stories.png" group-title="☘️国际频道",AMC Stories
+https://jmp2.uk/stvp-AT3000006M1
+#EXTINF:-1 tvg-name="AMC Stories" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/AMC Stories.png" group-title="☘️国际频道",AMC Stories
+https://jmp2.uk/stvp-DE3000009SE
+#EXTINF:-1 tvg-name="Stories by AMC" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Stories by AMC.png" group-title="☘️国际频道",Stories by AMC
+https://jmp2.uk/stvp-USBD2500018X6
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-CABC52000180Z
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-DEBC2100001ZJ
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-ESBC2100001IU
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-FRBC2100001YY
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-GBBC19000017V
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-ITBC2100001G9
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Pop.png" group-title="☘️国际频道",Vevo Pop
+https://jmp2.uk/stvp-USBC3600008WY
+#EXTINF:-1 tvg-name="Vevo Latino" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
+https://jmp2.uk/stvp-ESBC2100002LV
+#EXTINF:-1 tvg-name="Vevo Latino" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Latino.png" group-title="☘️国际频道",Vevo Latino
+https://jmp2.uk/stvp-USBC3600015GF
+#EXTINF:-1 tvg-name="Vevo Hip-Hop" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Vevo Hip-Hop.png" group-title="☘️国际频道",Vevo Hip-Hop
+https://jmp2.uk/stvp-USBC3600002EK
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-CA3900002PM
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-DE3900002R1
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-ES3900001QG
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-FR3900001AC
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-GB3900001TM
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-IN3800006RD
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-IT39000028R
+#EXTINF:-1 tvg-name="K-POP by CJ ENM" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/K-POP by CJ ENM.png" group-title="☘️国际频道",K-POP by CJ ENM
+https://jmp2.uk/stvp-US39000038W
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-CA1800004L7
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-DE17000032I
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-ES1700005ME
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-FR1700002OZ
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-GB17000088V
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-IT1700002R5
+#EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
+https://jmp2.uk/stvp-USAJ3000013FJ
+#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
+https://jmp2.uk/stvp-USBD270001633
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
+https://jmp2.uk/stvp-DE4000002I3
+#EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
+https://jmp2.uk/stvp-GBBA33000557H
+#EXTINF:-1 tvg-name="Shades of Black" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Shades of Black.png" group-title="☘️国际频道",Shades of Black
+https://jmp2.uk/stvp-USBC1000004G8
