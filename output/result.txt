@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-07 03:59:47,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+2026-09-07 19:33:15,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 
 ☘️央视频道,#genre#
 CCTV-1,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
@@ -65,7 +65,6 @@ BTV体育,http://114.245.198.169:85/tsfile/live/25/1025_1.m3u8?key=txiptv
 FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 ☘️台湾频道,#genre#
-凤凰电影,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️国际频道,#genre#
 CNN,https://jmp2.uk/stvp-ATBD800001VA
