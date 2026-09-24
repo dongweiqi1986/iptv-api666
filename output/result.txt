@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-24 19:06:57,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+2026-09-25 05:08:24,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 
 ☘️央视频道,#genre#
 CCTV-1,http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
@@ -65,6 +65,9 @@ BTV体育,http://114.245.198.169:85/tsfile/live/25/1025_1.m3u8?key=txiptv
 FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 ☘️台湾频道,#genre#
+美亚电影台HD,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+美亚电影台(国),https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+緯來電影HD,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 
 ☘️国际频道,#genre#
 CNN,https://jmp2.uk/stvp-ATBD800001VA
@@ -158,6 +161,8 @@ NEW KPOP,https://jmp2.uk/stvp-FR1700002OZ
 NEW KPOP,https://jmp2.uk/stvp-GB17000088V
 NEW KPOP,https://jmp2.uk/stvp-IT1700002R5
 NEW KPOP,https://jmp2.uk/stvp-USAJ3000013FJ
+Cinemax,https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
+HBO,https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
 Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
 MovieSphere by Lionsgate,https://jmp2.uk/stvp-DE4000002I3
 MovieSphere by Lionsgate,https://jmp2.uk/stvp-GBBA33000557H

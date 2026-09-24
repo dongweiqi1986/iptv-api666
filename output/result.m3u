@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-24 19:06:57
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-25 05:08:24
 http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="☘️央视频道",CCTV-1
 http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
@@ -111,6 +111,12 @@ http://61.221.215.25:8800/hls/47/index.m3u8
 http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="FashionTV Paris L'Original (1080p)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/FashionTV Paris L'Original (1080p).png" group-title="☘️香港频道",FashionTV Paris L'Original (1080p)
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1 tvg-name="美亚电影台HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台HD.png" group-title="☘️台湾频道",美亚电影台HD
+https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="美亚电影台(国)" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亚电影台(国).png" group-title="☘️台湾频道",美亚电影台(国)
+https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="緯來電影HD" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/緯來電影HD.png" group-title="☘️台湾频道",緯來電影HD
+https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
 https://jmp2.uk/stvp-ATBD800001VA
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN.png" group-title="☘️国际频道",CNN
@@ -293,6 +299,10 @@ https://jmp2.uk/stvp-GB17000088V
 https://jmp2.uk/stvp-IT1700002R5
 #EXTINF:-1 tvg-name="NEW KPOP" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/NEW KPOP.png" group-title="☘️国际频道",NEW KPOP
 https://jmp2.uk/stvp-USAJ3000013FJ
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Cinemax.png" group-title="☘️国际频道",Cinemax
+https://pixman.mytvsuper.com.mp/Smart.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/HBO.png" group-title="☘️国际频道",HBO
+https://pixman.mytvsuper.com.mp/Smart.php?id=hbohd_twn
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/Hallmark Movies & More.png" group-title="☘️国际频道",Hallmark Movies & More
 https://jmp2.uk/stvp-USBD270001633
 #EXTINF:-1 tvg-name="MovieSphere by Lionsgate" tvg-logo="https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/MovieSphere by Lionsgate.png" group-title="☘️国际频道",MovieSphere by Lionsgate
