@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-06 20:44:34,http://go.bkpcp.top/mg/cctv1
+2026-10-07 06:19:15,http://go.bkpcp.top/mg/cctv1
 
 ☘️央视频道,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
@@ -44,13 +44,11 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 凤凰资讯,http://t.061899.xyz/tl/js/js.php?id=fhwszxt
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
-凤凰资讯,http://219.145.93.74:10000/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰香港,http://t.061899.xyz/tl/js/js.php?id=fhwsxgt
 凤凰香港,http://m.061899.xyz/mg/fhhk
 FashionTV Paris L'Original (1080p),https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
 ☘️台湾频道,#genre#
-PopC电影,http://j.s.bkpcp.top/js/popc
 美亚电影台HD,https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
 美亚电影台(国),https://pixman.mytvsuper.com.mp/Smart.php?id=meiyamovie_twn
 緯來電影HD,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandmovie
