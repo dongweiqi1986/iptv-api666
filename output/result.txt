@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-08 06:47:31,http://go.bkpcp.top/mg/cctv1
+2026-10-08 20:47:55,http://go.bkpcp.top/mg/cctv1
 
 ☘️央视频道,#genre#
 CCTV-1,http://go.bkpcp.top/mg/cctv1
@@ -100,7 +100,7 @@ BBC Earth,https://jmp2.uk/stvp-DE3200001RI
 BBC Earth,https://jmp2.uk/stvp-ES3200001F1
 BBC Earth,https://jmp2.uk/stvp-FR3200001NQ
 BBC Earth,https://jmp2.uk/stvp-IT3200002L5
-BBC Travel,https://jmp2.uk/stvp-DE2900001W0
+BBC Travel,https://jmp2.uk/stvp-US2600028R7
 Discovery,https://jmp2.uk/stvp-IT31000026G
 WWE Superstar Central,https://jmp2.uk/stvp-US700005ID
 Red Bull TV,https://jmp2.uk/stvp-ATBD1500003ES
