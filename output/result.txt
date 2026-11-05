@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-05 07:11:19,http://61.221.215.25:8800/hls/47/index.m3u8
+2026-11-05 22:31:25,http://61.221.215.25:8800/hls/47/index.m3u8
 
 ☘️央视频道,#genre#
 
@@ -106,7 +106,6 @@ NEW KPOP,https://jmp2.uk/stvp-FR1700002OZ
 NEW KPOP,https://jmp2.uk/stvp-GB17000088V
 NEW KPOP,https://jmp2.uk/stvp-IT1700002R5
 NEW KPOP,https://jmp2.uk/stvp-USAJ3000013FJ
-Hallmark Movies & More,https://jmp2.uk/stvp-USBD270001633
 MovieSphere by Lionsgate,https://jmp2.uk/stvp-DE4000002I3
 MovieSphere by Lionsgate,https://jmp2.uk/stvp-GBBA33000557H
 Shades of Black,https://jmp2.uk/stvp-USBC1000004G8
